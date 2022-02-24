@@ -23,6 +23,7 @@ const Nav = {
                         <li class="menu-item"><a href="/news-page">News Page</a></li>
                         <li class="menu-item"><a href="/cart">Cart</a></li>
                         <li class="menu-item"><a href="/admin/dashboard">Dashboard</a></li>
+                        <li class="menu-item"><a href="/signin">Login</a></li>
                     </ul>
                 </div>  
                 
